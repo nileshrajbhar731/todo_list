@@ -1,5 +1,5 @@
 # todo_list
-create a todo list with laravel 8 and attach database mySQl
+To-do list project is developed using programming languages: Laravel 8, MYSQL, HTML, CSS. After learning Laravel 8, for practise purpose I started developing to-do list project. In to-do list we can add task, edit it, show the tasks and can also delete the task.
 
 1. Home page 
 
